@@ -1,13 +1,13 @@
-name:                hkds
-version:             0.1.0.0
-synopsis:            Higher-kinded data SCIENCE
-description:         See https://github.com/wbadart/hkds
-homepage:            https://github.com/wbadart/hkds
-license:             BSD3
-author:              Will Badart
-maintainer:          will (at) willbadart (dot) com
-copyright:           2020 Will Badart
-category:            Web
+name:        hkds
+version:     0.1.0.0
+synopsis:    Higher-kinded data SCIENCE
+description: See https://github.com/wbadart/hkds
+homepage:    https://github.com/wbadart/hkds
+license:     BSD3
+author:      Will Badart
+maintainer:  will (at) willbadart (dot) com
+copyright:   2020 Will Badart
+category:    Web
 extra-source-files:
 - README.md
 
