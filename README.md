@@ -1,4 +1,4 @@
-# hkd
+# hkds
 
 Exploring Higher-Kinded Data as the foundation of a safer, friendlier,
 schema-driven API for data science.
